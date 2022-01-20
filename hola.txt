@@ -1,1 +1,1 @@
-Practica grupal sobre git
+This file is to practice git with a partner
