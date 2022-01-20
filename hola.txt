@@ -1,1 +1,4 @@
 Practica grupal sobre git
+
+
+CONTENIDO CON CONFLICTO DESDE Jacoba
